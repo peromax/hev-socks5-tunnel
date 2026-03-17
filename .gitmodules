@@ -6,7 +6,7 @@
 	url = https://github.com/heiher/yaml
 [submodule "third-part/lwip"]
 	path = third-part/lwip
-	url = https://github.com/heiher/lwip
+	url = https://github.com/peromax/lwip.git
 [submodule "src/core"]
 	path = src/core
 	url = https://github.com/heiher/hev-socks5-core
